@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.mid-1{
+  margin: 10px;
+	text-align: center;
+}
+.mid-1 input{
+	width: 300px;
+	height: 20px;
+	margin-bottom: 10px
+}
+.mid-1 button{
+	width: 200px;
+	height:20px;
+	background-color: pink;
+}
+/* .mid-trai{
+	height: 500px;
+	width: 48%;
+	border: 2px solid grey;
+	border-radius: 10px	;
+	float:left;
+} */
+/* 
+.mid-phai{
+	height: 500px;
+	width: 48%;
+	border: 2px solid grey;
+	border-radius: 10px	;
+	float:left;
+} */
+.mid-2{
+  height: 490px;
+}
+.mid-trai{
+
+  background-color: #eee;
+}
+.mid-phai{
+  background-color: #eee;
+}
+h3{
+  color: blue;
+  text-align: center;
+}
+.top-mid{
+	background-color: pink;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	border-radius: 10px
+}
+.mid-mid-trai{
+  border: 1px solid gray;
+  border-radius: 4px;
+  margin-bottom: 5px;
+  height: auto;
+  display: grid;
+  grid-template-columns: 3fr 0.5fr;
+}
+.bot{
+  width:100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+	text-align: center;
+  margin: 0 auto;
+  margin-top: 10px;
+  border-radius: 10px;
+	
+}
+button{
+  color: blue;
+  background-color: pink;
+  margin: 10px;
+}
+.back {
+  font-size: 20px;
+  width: 80px;
+  height: 40px;
+  border-radius: 10px;
+  margin-left: 185px;
+}
